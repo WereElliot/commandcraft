@@ -17,7 +17,7 @@ CommandCraft is a terminal-based assistant that transforms natural language into
 ## Demo Instructions
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/commandcraft.git
+    git clone https://github.com/WereElliot/commandcraft.git
     cd commandcraft
     ```
 2.  **Run the application:**
