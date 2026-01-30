@@ -39,4 +39,9 @@ CommandCraft is a terminal-based assistant that transforms natural language into
 - **Learn by Doing:** Discover new commands and shell features by seeing the output of your natural language queries.
 
 ## Screenshots/GIFs
-comming soon
+<img width="928" height="166" alt="image" src="https://github.com/user-attachments/assets/ea4876c1-fa4f-44d5-b590-2edb6cabde61" />
+<img width="972" height="265" alt="image" src="https://github.com/user-attachments/assets/6d448b45-e260-4833-9c0c-7d47945992d6" />
+<img width="930" height="587" alt="image" src="https://github.com/user-attachments/assets/ebbba070-1ef4-42f8-9d62-5f883b5a4e00" />
+
+
+
