@@ -1,4 +1,4 @@
-# CommandCraft: Everyday Utility Hub Powered by Copilot CLI
+# CommandCraft: Everyday Utility Hub Powered by Github Copilot CLI
 
 ## Problem Statement
 In the fast-paced world of software development, efficiency is key. Developers often find themselves wrestling with complex shell commands, trying to remember the right syntax for tasks like file manipulation, system monitoring, or version control. This reliance on memory or constant searching for command-line snippets slows down workflows and introduces unnecessary friction into the development process.
